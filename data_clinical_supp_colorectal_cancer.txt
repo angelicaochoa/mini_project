@@ -1,0 +1,308 @@
+SAMPLE_ID	PATIENT_ID	AGE	RACE	HISTORY_OF_ULCERATIVE_COLITIS	HISTORY_OF_CROHNS_DISEASE	DIABETES_STATUS	INSULIN_STATUS	HISTOLOGY	GRADE	MSI_STATUS	LYNCH_SYNDROME	STAGE_AT_DIAGNOSIS	STAGE_AT_TESTING	PRIMARY_RESECTION	METASTATIC_RESECTION	SURGERY	TIME_TO_MET_MONTHS	TIME_TO_RECURRENCE_MONTHS	VITAL_STATUS	TIME_TO_DEATH_MONTHS	NOTE	NEOADJ_TX_BEFORE_FIRST_SURGERY	PREOP_RT_BEFORE_FIRST_SURGERY	ADJ_TX_AFTER_FIRST_SURGERY	ADJ_RT_AFTER_FIRST_SURGERY	PRIOR_FLUOROPYRIMIDINE	PRIOR_OXALIPLATIN	PRIOR_IRINOTECAN	PRIOR_ANTI_EGFR	PRIOR_ANTI_VEGF	PRIOR_HAI	PRIOR_IP	PRIOR_RT_OF_SEQUENCED_SITE	PROTOCOL	PROTOCOL_NUM	OTHER_SAMPLE_ID	OTHER_PATIENT_ID
+P-0004010-T01-IM3	P-0004010	63	White	N	N	N	N	Adenocarcinoma with mucinous features	2	Unknown	Unknown	III	IV	Y	Y	Y	16.3	56.13333333	Alive	NA	Time to Recurrence (months): Time to recurrence after complere resection of mets (months)	N	N	Y	Y	Yes	Yes	Yes	No	No	No	No	No	N	NA	DMP0467	DMP0467
+P-0004018-T01-IM3	P-0004018	59	White	N	N	N	N	Adenocarcinoma NOS	2	Stable	N	IV	IV	Y	Y	N	0	NA	Dead	25.86666667	Time To Death (Months): Time to death from diagnosis of mets	Y	Y	NA	NA	Yes	Yes	Yes	Yes	Yes	No	No	Yes	N	NA	DMP1051	DMP1051
+P-0004007-T02-IM3	P-0004007	48	White	N	N	N	N	Adenocarcinoma NOS	3	Stable	N	IV	IV	N	Y	N	0	NA	Alive	NA	NA	N	N	NA	NA	No	No	No	No	No	No	No	No	N	NA	DMP2140	DMP2140
+P-0003990-T01-IM3	P-0003990	34	White	N	N	N	N	Adenocarcinoma NOS	2	Stable	N	IV	IV	Y	Y	Y	0	NA	Alive	NA	NA	N	N	Y	N	No	No	No	No	No	No	No	No	N	NA	DMP2145	DMP2145
+P-0004007-T01-IM3	P-0004007	48	White	N	N	N	N	Adenocarcinoma NOS	3	Stable	N	IV	IV	N	Y	N	0	NA	Alive	NA	NA	N	N	NA	NA	No	No	No	No	No	No	No	No	N	NA	DMP2150	DMP2150
+P-0000029-T01-IM3	P-0000029	70	White	N	N	N	N	Mucinous Adenocarcinoma	3	Stable	N	III	IV	Y	N	NA	9.2	NA	Dead	13.4	Time To Death (Months): Time to death from diagnosis of mets	N	N	Y	N	Yes	Yes	No	No	No	No	No	No	N	NA	DMP0012	DMP0012
+P-0000033-T01-IM3	P-0000033	NA	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	IV	Unknown	Unknown	Unknown	Unknown	NA	unknown	NA	NA	Unknown	Unknown	Unknown	Unknown	unknown	unknown	unknown	unknown	unknown	unknown	unknown	unknown	N	NA	DMP0010	DMP0010
+P-0000119-T01-IM3	P-0000119	67	White	N	N	N	N	Adenocarcinoma NOS	2	Unknown	Unknown	IV	IV	Y	Y	N	0	NA	Alive	NA	NA	N	N	NA	NA	Yes	Yes	No	No	No	No	No	No	N	NA	DMP0104	DMP0104
+P-0000241-T01-IM3	P-0000241	49	White	N	N	Y	N	Adenocarcinoma NOS	3	Stable	N	IV	IV	Y	N	NA	0	NA	Dead	23.96666667	Time To Death (Months): Time to death from diagnosis of mets	N	N	NA	NA	Yes	Yes	Yes	No	Yes	No	No	No	Y	13-140	DMP0224	DMP0224
+P-0000511-T01-IM3	P-0000511	39	White	N	N	N	N	Mucinous Adenocarcinoma	3	Stable	N	IV	IV	Y	Y	Y	0	11.1	Alive	NA	Time to Recurrence (months): Time to recurrence after complere resection of mets (months)	N	N	Y	N	Yes	Yes	No	No	No	No	No	No	N	NA	DMP0454	DMP0454
+P-0000520-T01-IM3	P-0000520	61	White	N	N	N	N	Adenocarcinoma NOS	2	Stable	N	II	IV	Y	N	NA	23.7	NA	Alive	NA	NA	N	N	Y	N	No	No	No	No	No	No	No	No	N	NA	DMP0491	DMP0491
+P-0000526-T01-IM3	P-0000526	24	White	N	N	N	N	Adenocarcinoma NOS	2	Unknown	Unknown	IV	IV	Y	Y	Y	0	12.96666667	Alive	NA	Time to Recurrence (months): Time to recurrence after complere resection of mets (months)	N	N	Y	N	Yes	Yes	No	No	No	No	No	No	N	NA	DMP0481	DMP0481
+P-0000552-T01-IM3	P-0000552	63	Black	N	N	N	N	Adenocarcinoma NOS	2	Unknown	Unknown	IV	IV	N	N	NA	0.166666667	NA	Dead	15.83333333	Time To Death (Months): Time to death from diagnosis of mets	NA	NA	NA	NA	Yes	Yes	Yes	No	Yes	No	No	No	N	NA	DMP0507	DMP0507
+P-0000561-T01-IM3	P-0000561	22	White	N	N	N	N	Adenocarcinoma with mucinous features	2	High	Y	II	IV	Y	Y	Y	10.83333333	4.3	Alive	NA	Time to Recurrence (months): Time to recurrence after complere resection of mets (months)	N	N	Y	N	No	No	No	No	No	No	No	No	N	NA	DMP0515	DMP0515
+P-0000562-T01-IM3	P-0000562	43	White	N	N	N	N	Adenocarcinoma with mucinous features	2	Stable	N	III	IV	Y	Y	Y	29.46666667	2.533333333	Alive	NA	Time to Recurrence (months): Time to recurrence after complere resection of mets (months)	N	N	Y	N	Yes	Yes	No	No	No	No	No	No	N	NA	DMP0519	DMP0519
+P-0000616-T01-IM3	P-0000616	58	White	N	N	N	N	Adenocarcinoma NOS	2	Stable	N	II	IV	Y	N	NA	36.16666667	NA	Dead	19.2	Time To Death (Months): Time to death from diagnosis of mets	N	N	N	N	Yes	Yes	Yes	Yes	Yes	No	No	No	Y	14-019	DMP1585	DMP1585
+P-0000616-T02-IM3	P-0000616	58	White	N	N	N	N	Adenocarcinoma NOS	2	Stable	N	II	IV	Y	N	NA	36.16666667	NA	Dead	19.2	Time To Death (Months): Time to death from diagnosis of mets	N	N	N	N	Yes	Yes	Yes	Yes	Yes	No	No	No	Y	14-019	DMP0564	DMP0564
+P-0000625-T01-IM3	P-0000625	68	Black	N	N	N	N	Adenocarcinoma NOS	2	Stable	N	IV	IV	N	N	NA	0	NA	Dead	16.76666667	Time To Death (Months): Time to death from diagnosis of mets	NA	NA	NA	NA	No	No	No	No	No	No	No	No	N	NA	DMP0576	DMP0576
+P-0000635-T01-IM3	P-0000635	65	White	N	N	Y	N	Adenocarcinoma NOS	2	Stable	N	IV	IV	N	N	NA	0	NA	Alive	NA	NA	NA	NA	NA	NA	No	No	No	No	No	No	No	No	N	NA	DMP0592	DMP0592
+P-0000674-T01-IM3	P-0000674	65	White	N	N	Y	N	Adenocarcinoma NOS	2	Unknown	Unknown	IV	IV	N	N	NA	0	NA	Alive	NA	NA	NA	NA	NA	NA	No	No	No	No	No	No	No	No	N	NA	DMP0621	DMP0621
+P-0000675-T02-IM3	P-0000675	54	Unknown	N	N	N	N	Adenocarcinoma NOS	2	Unknown	Unknown	I	I	Y	NA	NA	NA	NA	Alive	NA	NA	N	N	N	N	No	No	No	No	No	No	No	No	N	NA	DMP0667	DMP0667
+P-0000678-T01-IM3	P-0000678	82	White	N	N	N	N	Adenocarcinoma NOS	2	Unknown	Unknown	IV	IV	Y	Y	Y	0	13.86666667	Alive	NA	Time to Recurrence (months): Time to recurrence after complere resection of mets (months)	N	N	Y	N	No	No	No	No	No	No	No	No	N	NA	DMP0638	DMP0638
+P-0000682-T01-IM3	P-0000682	50	White	N	N	N	N	Adenocarcinoma NOS	2	Unknown	Unknown	III	IV	Y	N	NA	125.8	NA	Alive	NA	NA	N	N	Y	N	Yes	Yes	No	No	No	No	No	No	N	NA	DMP0633	DMP0633
+P-0000687-T01-IM3	P-0000687	47	White	N	N	N	N	Adenocarcinoma NOS	2	Stable	N	IV	IV	Y	Y	N	0	NA	Alive	NA	NA	Y	N	NA	NA	Yes	Yes	Yes	Yes	Yes	No	No	No	N	NA	DMP0627	DMP0627
+P-0000695-T01-IM3	P-0000695	54	White	N	N	N	N	Adenocarcinoma with micropapillary features	3	Unknown	Unknown	IV	IV	Y	N	NA	0	NA	Dead	28.8	Time To Death (Months): Time to death from diagnosis of mets	Y	N	NA	NA	Yes	Yes	No	Yes	No	No	No	No	N	NA	DMP0653	DMP0653
+P-0000699-T01-IM3	P-0000699	41	Asian	N	N	N	N	Adenocarcinoma NOS	2	Stable	N	IV	IV	Y	Y	Y	0	15.96666667	Alive	NA	Time to Recurrence (months): Time to recurrence after complere resection of mets (months)	Y	N	Y	N	Yes	Yes	No	No	No	No	No	No	N	NA	DMP0648	DMP0648
+P-0000703-T01-IM3	P-0000703	80	White	N	N	N	N	Adenocarcinoma NOS	3	Unknown	Unknown	IV	IV	N	N	NA	0	NA	Alive	NA	NA	NA	NA	NA	NA	No	No	No	No	No	No	No	No	N	NA	DMP0649	DMP0649
+P-0000714-T01-IM3	P-0000714	38	White	N	N	N	N	Adenocarcinoma NOS	3	Stable	N	IV	IV	Y	N	NA	0	NA	Dead	13.66666667	Time To Death (Months): Time to death from diagnosis of mets	Y	N	NA	NA	Yes	Yes	No	Yes	No	No	No	No	N	NA	DMP0662	DMP0662
+P-0000721-T01-IM3	P-0000721	58	White	N	N	Y	N	Adenocarcinoma with micropapillary features	3	Stable	N	IV	IV	Y	Y	Y	0	10.03333333	Alive	NA	Time to Recurrence (months): Time to recurrence after complere resection of mets (months)	N	N	N	N	No	No	No	No	No	No	No	No	Y	13-140	DMP0679	DMP0679
+P-0000736-T01-IM3	P-0000736	66	White	N	N	N	N	Adenocarcinoma NOS	2	Unknown	Unknown	IV	IV	Y	Y	Y	0	8.233333333	Alive	NA	Time to Recurrence (months): Time to recurrence after complere resection of mets (months)	N	N	Y	N	No	No	No	No	No	No	No	No	Y	10-137	DMP0687	DMP0687
+P-0000737-T01-IM3	P-0000737	47	White	N	N	N	N	Adenocarcinoma NOS	2	Stable	N	IV	IV	Y	Y	Y	0	17.83333333	Dead	69.8	Time to Recurrence (months): Time to recurrence after complere resection of mets (months)Time To Death (Months): Time to death from diagnosis of mets	N	N	Y	N	No	No	No	No	No	No	No	No	N	NA	DMP0680	DMP0680
+P-0000738-T01-IM3	P-0000738	49	White	N	N	N	N	Adenocarcinoma NOS	2	Stable	N	IV	IV	Y	Y	Y	0	NA	Alive	NA	NA	N	N	NA	NA	Yes	Yes	Yes	No	Yes	No	No	No	N	NA	DMP0681	DMP0681
+P-0000739-T01-IM3	P-0000739	76	White	N	N	N	N	Adenocarcinoma NOS	2	Unknown	Unknown	IV	IV	Y	Y	N	0	NA	Alive	NA	NA	Y	N	NA	NA	Yes	Yes	No	No	No	No	No	No	N	NA	DMP0691	DMP0691
+P-0000742-T01-IM3	P-0000742	43	White	N	N	N	N	Adenocarcinoma NOS	2	Stable	N	IV	IV	Y	Y	Y	0	NA	Alive	NA	NA	Y	N	Y	N	Yes	Yes	No	No	No	No	No	No	N	NA	DMP0689	DMP0689
+P-0000744-T01-IM3	P-0000744	61	White	N	N	N	N	Adenocarcinoma NOS	2	Unknown	Unknown	IV	IV	Y	Y	N	0	NA	Alive	NA	NA	Y	N	NA	NA	Yes	Yes	No	No	No	Yes	No	No	N	NA	DMP0690	DMP0690
+P-0000745-T01-IM3	P-0000745	72	White	N	N	N	N	Adenocarcinoma NOS	2	Unknown	Unknown	IV	IV	Y	Y	Y	0	3	Dead	49.66666667	Time to Recurrence (months): Time to recurrence after complere resection of mets (months)Time To Death (Months): Time to death from diagnosis of mets	N	N	N	N	Yes	Yes	No	No	No	No	No	No	N	NA	DMP0692	DMP0692
+P-0000754-T01-IM3	P-0000754	46	Black	N	N	N	N	Adenocarcinoma NOS	2	Stable	N	IV	IV	Y	N	NA	0	NA	Alive	NA	NA	Y	N	NA	NA	Yes	Yes	No	No	Yes	No	No	No	N	NA	DMP0705	DMP0705
+P-0000757-T01-IM3	P-0000757	67	Unknown	N	N	N	N	Adenocarcinoma NOS	2	Unknown	Unknown	IV	IV	N	N	NA	0	NA	Alive	NA	NA	NA	NA	NA	NA	No	No	No	No	No	No	No	No	N	NA	DMP0697	DMP0697
+P-0000762-T01-IM3	P-0000762	63	White	N	N	N	N	Adenocarcinoma NOS	2	Stable	N	IV	IV	Y	Y	Y	0	19.93333333	Alive	NA	Time to Recurrence (months): Time to recurrence after complere resection of mets (months)	Y	N	Y	N	Yes	Yes	Yes	Yes	No	Yes	No	No	N	NA	DMP0710	DMP0710
+P-0000763-T01-IM3	P-0000763	45	Black	N	N	N	N	Adenocarcinoma NOS	2	Stable	N	III	IV	Y	Y	Y	14.96666667	13.86666667	Alive	NA	Time to Recurrence (months): Time to recurrence after complere resection of mets (months)	N	N	Y	N	Yes	Yes	No	No	No	No	No	No	N	NA	DMP0711	DMP0711
+P-0000769-T01-IM3	P-0000769	50	White	N	N	N	N	Adenocarcinoma NOS	2	Stable	N	IV	IV	Y	Y	Y	0	16.53333333	Alive	NA	Time to Recurrence (months): Time to recurrence after complere resection of mets (months)	N	N	NA	NA	No	Yes	Yes	Yes	No	Yes	No	No	N	NA	DMP0712	DMP0712
+P-0000772-T01-IM3	P-0000772	38	Unknown	N	N	N	N	Adenocarcinoma NOS	2	Stable	N	IV	IV	Y	Y	N	0	NA	Alive	NA	NA	Y	Y	NA	NA	Yes	Yes	Yes	Yes	Yes	Yes	No	No	N	NA	DMP0716	DMP0716
+P-0000777-T01-IM3	P-0000777	40	White	N	N	N	N	Adenocarcinoma NOS	2	Stable	N	I	IV	Y	Y	Y	32.96666667	NA	Alive	NA	NA	N	N	N	N	No	No	No	No	No	No	No	No	N	NA	DMP0730	DMP0730
+P-0000788-T01-IM3	P-0000788	65	White	N	N	N	N	Adenocarcinoma NOS	2	Unknown	Unknown	IV	IV	N	N	NA	0	NA	Alive	NA	NA	NA	NA	NA	NA	No	No	No	No	No	No	No	No	N	NA	DMP0745	DMP0745
+P-0000798-T01-IM3	P-0000798	47	White	N	N	N	N	Adenocarcinoma NOS	2	Stable	N	I	IV	Y	Y	Y	8.333333333	36.3	Alive	NA	Time to Recurrence (months): Time to recurrence after complere resection of mets (months)	N	N	N	N	No	No	No	No	No	No	No	No	N	NA	DMP0734	DMP0734
+P-0000802-T01-IM3	P-0000802	54	White	N	N	N	N	Adenocarcinoma NOS	2	Unknown	Unknown	IV	IV	Y	Y	Y	0	18.36666667	Alive	NA	Time to Recurrence (months): Time to recurrence after complere resection of mets (months)	N	N	NA	NA	Yes	Yes	Yes	No	No	Yes	No	Yes	N	NA	DMP0735	DMP0735
+P-0000827-T01-IM3	P-0000827	48	Black	N	N	N	N	Adenocarcinoma NOS	2	Stable	N	IV	IV	Y	Y	N	0	NA	Dead	26.2	Time To Death (Months): Time to death from diagnosis of mets	Y	Y	NA	NA	Yes	Yes	No	No	No	Yes	No	No	N	NA	DMP0769	DMP0769
+P-0000843-T01-IM3	P-0000843	56	White	N	N	N	N	Adenocarcinoma NOS	2	Unknown	Unknown	IV	IV	Y	Y	Y	0	102.5	Alive	NA	Time to Recurrence (months): Time to recurrence after complere resection of mets (months)	N	N	Y	N	Yes	No	Yes	No	No	No	No	No	N	NA	DMP0784	DMP0784
+P-0000854-T01-IM3	P-0000854	56	White, Hispanic	N	N	N	N	Mucinous Adenocarcinoma	2	Stable	N	IV	IV	Y	Y	Y	0	NA	Alive	NA	NA	N	N	Y	N	No	No	No	No	No	No	No	No	N	NA	DMP0802	DMP0802
+P-0000860-T01-IM3	P-0000860	49	White	N	N	Y	N	Adenocarcinoma NOS	2	Stable	N	IV	IV	Y	Y	Y	0	NA	Alive	NA	NA	Y	N	Y	N	Yes	Yes	No	No	No	No	No	No	N	NA	DMP0800	DMP0800
+P-0000862-T01-IM3	P-0000862	74	White	N	N	N	N	Adenocarcinoma NOS	3	High	N	IV	IV	N	N	NA	0	NA	Alive	NA	NA	NA	NA	NA	NA	No	No	No	No	No	No	No	No	N	NA	DMP0791	DMP0791
+P-0000868-T01-IM3	P-0000868	49	White	N	N	N	N	Adenocarcinoma NOS	2	Stable	N	IV	IV	Y	Y	Y	0	34	Alive	NA	Time to Recurrence (months): Time to recurrence after complere resection of mets (months)	Y	N	Y	N	Yes	Yes	Yes	No	Yes	Yes	No	No	N	NA	DMP0795	DMP0795
+P-0000869-T01-IM3	P-0000869	51	White	N	N	Y	N	Adenocarcinoma NOS	2	Unknown	Unknown	IV	IV	Y	Y	N	0	NA	Alive	NA	NA	Y	Y	NA	NA	Yes	Yes	Yes	No	No	Yes	No	No	N	NA	DMP0796	DMP0796
+P-0000874-T01-IM3	P-0000874	59	White	N	N	N	N	Adenocarcinoma NOS	2	Stable	N	IV	IV	Y	Y	NA	0	NA	Alive	NA	NA	N	N	NA	NA	No	No	No	No	No	No	No	No	N	NA	DMP0817	DMP0817
+P-0000885-T01-IM3	P-0000885	51	White	N	N	N	N	Adenocarcinoma NOS	2	Stable	N	IV	IV	Y	N	NA	0	NA	Alive	NA	NA	Y	N	NA	NA	Yes	Yes	No	No	No	No	No	No	N	NA	DMP0823	DMP0823
+P-0000911-T01-IM3	P-0000911	49	White	N	N	N	N	Adenocarcinoma NOS	2	Stable	N	IV	IV	Y	N	NA	0	NA	Alive	NA	NA	Y	N	NA	NA	Yes	Yes	Yes	Yes	No	No	No	No	N	NA	DMP0840	DMP0840
+P-0000915-T01-IM3	P-0000915	59	White	N	N	N	N	Adenocarcinoma NOS	2	Unknown	Unknown	IV	IV	Y	Y	Y	0	42.63333333	Alive	NA	Time to Recurrence (months): Time to recurrence after complere resection of mets (months)	Y	N	NA	NA	Yes	Yes	Yes	No	Yes	Yes	No	No	N	NA	DMP0843	DMP0843
+P-0000933-T01-IM3	P-0000933	39	White	N	N	N	N	Adenocarcinoma NOS	2	Stable	N	IV	IV	N	N	NA	0	NA	Alive	NA	NA	NA	NA	NA	NA	No	No	No	No	No	No	No	No	N	NA	DMP0869	DMP0869
+P-0000940-T01-IM3	P-0000940	62	White	N	N	N	N	Adenocarcinoma NOS	2	Unknown	Unknown	IV	IV	Y	Y	Y	0	12.16666667	Alive	NA	Time to Recurrence (months): Time to recurrence after complere resection of mets (months)	N	N	NA	NA	Yes	Yes	Yes	No	Yes	Yes	Yes	No	N	NA	DMP0874	DMP0874
+P-0000979-T01-IM3	P-0000979	55	Black	Y	N	N	N	Adenocarcinoma NOS	2	Unknown	Unknown	III	IV	Y	N	NA	15.63333333	NA	Alive	NA	NA	Y	N	Y	N	Yes	Yes	No	No	No	No	No	No	N	NA	DMP0894	DMP0894
+P-0000982-T01-IM3	P-0000982	57	White	N	N	N	N	Adenocarcinoma NOS	2	Stable	N	IV	IV	N	N	NA	0	NA	Alive	NA	NA	NA	NA	NA	NA	No	No	No	No	No	No	No	No	Y	13-140	DMP0898	DMP0898
+P-0000982-T02-IM5	P-0000982	57	White	N	N	N	N	Adenocarcinoma NOS	2	Stable	N	IV	IV	N	N	NA	0	NA	Alive	NA	NA	NA	NA	NA	NA	Yes	Yes	Yes	Yes	No	No	No	No	Y	13-140		
+P-0000988-T01-IM3	P-0000988	58	White	N	N	N	N	Adenocarcinoma NOS	2	Stable	N	IV	IV	N	Y	N	0	NA	Alive	NA	NA	NA	NA	NA	NA	No	No	No	No	No	No	No	No	N	NA	DMP0901	DMP0901
+P-0000994-T01-IM3	P-0000994	48	Hawaiian	N	N	N	N	Adenocarcinoma NOS	2	Unknown	Unknown	IV	IV	N	N	NA	0	NA	Alive	NA	NA	NA	NA	NA	NA	No	No	No	No	No	No	No	No	N	NA	DMP0909	DMP0909
+P-0000997-T01-IM3	P-0000997	78	White	N	N	N	N	Adenocarcinoma NOS	2	Stable	N	III	IV	Y	N	NA	7.3	NA	Alive	NA	NA	N	N	Y	N	Yes	No	Yes	Yes	Yes	No	No	No	N	NA	DMP1531	DMP1531
+P-0000997-T02-IM3	P-0000997	78	White	N	N	N	N	Adenocarcinoma NOS	2	Stable	N	III	IV	Y	N	NA	7.3	NA	Alive	NA	NA	N	N	Y	N	No	No	No	No	No	No	No	No	N	NA	DMP0910	DMP0910
+P-0001017-T01-IM3	P-0001017	46	White	N	N	N	N	Adenocarcinoma NOS	Unknown	Stable	N	III	IV	Y	Y	N	52.43333333	NA	Dead	42.83333333	Time To Death (Months): Time to death from diagnosis of mets	Y	Y	Y	N	Yes	Yes	No	No	No	No	No	No	N	NA	DMP0922	DMP0922
+P-0001020-T01-IM3	P-0001020	63	White	N	N	N	N	Adenocarcinoma NOS	2	High	Unknown	IV	IV	Y	Y	Y	0	NA	Alive	NA	NA	N	N	Y (suspended for toxicity)	N	No	No	No	No	No	No	No	No	N	NA	DMP0942	DMP0942
+P-0001054-T01-IM3	P-0001054	34	White	N	N	N	N	Mucinous Adenocarcinoma	3	Stable	N	IV	IV	Y	Y	N	0	NA	Alive	NA	NA	Y	N	NA	NA	No	No	No	No	No	No	No	No	N	NA	DMP1572	DMP1572
+P-0001054-T02-IM3	P-0001054	34	White	N	N	N	N	Mucinous Adenocarcinoma	3	Stable	N	IV	IV	Y	Y	N	0	NA	Alive	NA	NA	Y	N	NA	NA	Yes	Yes	No	No	Yes	No	No	No	N	NA	DMP0977	DMP0977
+P-0001079-T01-IM3	P-0001079	72	White	N	N	N	N	Adenocarcinoma NOS	2	Unknown	Unknown	IV	IV	Y	N	NA	0	NA	Dead	36.53333333	Time To Death (Months): Time to death from diagnosis of mets	N	N	NA	NA	Yes	Yes	Yes	Yes	No	Yes	No	No	N	NA	DMP0996	DMP0996
+P-0001104-T01-IM3	P-0001104	75	White	N	N	N	N	Adenocarcinoma with mucinous features	3	Stable	N	IV	IV	N	N	NA	0	NA	Alive	NA	NA	NA	NA	NA	NA	Yes	Yes	Yes	Yes	No	No	No	No	N	NA	DMP2136	DMP2136
+P-0001104-T02-IM3	P-0001104	75	White	N	N	N	N	Adenocarcinoma with mucinous features	3	Stable	N	IV	IV	N	N	NA	0	NA	Alive	NA	NA	NA	NA	NA	NA	No	No	No	No	No	No	No	No	N	NA	DMP1023	DMP1023
+P-0001104-T03-IM3	P-0001104	75	White	N	N	N	N	Adenocarcinoma with mucinous features	3	Stable	N	IV	IV	N	N	NA	0	NA	Alive	NA	NA	NA	NA	NA	NA	No	No	No	No	No	No	No	No	N	NA	DMP1424	DMP1424
+P-0001104-T05-IM3	P-0001104	75	White	N	N	N	N	Adenocarcinoma with mucinous features	3	Stable	N	IV	IV	N	N	NA	0	NA	Alive	NA	NA	NA	NA	NA	NA	Yes	Yes	Yes	Yes	No	No	No	No	N	NA	DMP1494	DMP1494
+P-0001150-T01-IM3	P-0001150	51	White	N	N	N	N	Adenocarcinoma NOS	3	Unknown	Unknown	IV	IV	Y	Y	N	0	NA	Dead	45.8	Time To Death (Months): Time to death from diagnosis of mets	N	N	NA	NA	Yes	Yes	Yes	Yes	Yes	No	Yes	No	Y	14-044	DMP1075	DMP1075
+P-0001151-T01-IM3	P-0001151	66	White	N	N	N	N	Adenocarcinoma with mucinous features/High Grade Neuroendocrine Carcinoma	3	Stable	N	IV	IV	Y	N	NA	0	NA	Alive	NA	NA	N	N	NA	NA	No	No	No	No	No	No	No	No	N	NA	DMP1071	DMP1071
+P-0001170-T01-IM3	P-0001170	63	White	N	N	N	N	Adenocarcinoma with micropapillary features	3	Stable	N	III	IV	Y	N	NA	12.23333333	NA	Alive	NA	NA	N	N	Y	N	No	No	No	No	No	No	No	No	N	NA	DMP1077	DMP1077
+P-0001190-T01-IM3	P-0001190	52	White	N	N	N	N	Adenocarcinoma NOS	2	Unknown	Unknown	III	IV	Y	Y	Y	21.16666667	5.3	Dead	58.33333333	Time to Recurrence (months): Time to recurrence after complere resection of mets (months)Time To Death (Months): Time to death from diagnosis of mets	N	N	Y	N	Yes	Yes	Yes	No	No	No	No	No	N	NA	DMP1103	DMP1103
+P-0001192-T01-IM3	P-0001192	48	White	N	N	N	N	Adenocarcinoma NOS	2	Unknown	Unknown	I	IV	Y	Y	N	81.36666667	NA	Alive	NA	NA	N	N	N	N	Yes	Yes	Yes	Yes	No	Yes	No	No	N	NA	DMP1104	DMP1104
+P-0001200-T01-IM3	P-0001200	45	White	N	N	N	N	Adenocarcinoma NOS	2	Stable	N	IV	IV	Y	Y	N	0	NA	Alive	NA	NA	Y	N	NA	NA	Yes	Yes	No	Yes	No	No	No	No	N	NA	DMP1107	DMP1107
+P-0001215-T01-IM3	P-0001215	45	White	N	N	N	N	Mucinous Adenocarcinoma	Unknown	Stable	N	III	IV	Y	Y	N	8.6	NA	Alive	NA	NA	N	N	Y	N	Yes	No	Yes	No	Yes	No	No	No	N	NA	DMP1121	DMP1121
+P-0001227-T01-IM3	P-0001227	66	White	N	N	N	N	Adenocarcinoma NOS	2	Unknown	Unknown	IV	IV	N	N	NA	0	NA	Alive	NA	NA	NA	NA	NA	NA	No	No	No	No	No	No	No	No	N	NA	DMP1135	DMP1135
+P-0001237-T01-IM3	P-0001237	46	White	N	N	N	N	Mucinous Adenocarcinoma	3	High	N	IV	IV	Y	Y	Y	0	29.26666667	Alive	NA	Time to Recurrence (months): Time to recurrence after complere resection of mets (months)	N	N	Y	N	Yes	Yes	No	No	No	Yes	No	No	N	NA	DMP1136	DMP1136
+P-0001287-T01-IM3	P-0001287	65	White	N	N	N	N	Adenocarcinoma NOS	Unknown	Stable	N	I	IV	Y	Y	N	5.7	NA	Alive	NA	NA	Y	Y	NA	NA	Yes	Yes	No	No	No	No	No	Yes	N	NA	DMP1189	DMP1189
+P-0001289-T01-IM3	P-0001289	62	White	N	N	N	N	Adenocarcinoma NOS	2	Unknown	Unknown	IV	IV	Y	Y	N	0	NA	Alive	NA	NA	N	N	NA	NA	No	No	No	No	No	No	No	No	N	NA	DMP1184	DMP1184
+P-0001295-T01-IM3	P-0001295	42	White	N	N	N	N	Adenocarcinoma NOS	3	Stable	N	IV	IV	Y	Y	Y	0	39.06666667	Alive	NA	Time to Recurrence (months): Time to recurrence after complere resection of mets (months)	N	N	NA	NA	Yes	Yes	Yes	No	Yes	No	No	No	N	NA	DMP1194	DMP1194
+P-0001302-T01-IM3	P-0001302	34	White	N	N	N	N	Adenocarcinoma NOS	2	Stable	N	IV	IV	Y	Y	N	0	NA	Alive	NA	NA	Y	N	NA	NA	Yes	Yes	No	Yes	No	No	No	No	N	NA	DMP1201	DMP1201
+P-0001316-T01-IM3	P-0001316	49	Asian	N	N	N	N	Adenocarcinoma NOS	2	Stable	N	III	IV	Y	Y	Y	12	9.3	Alive	NA	Time to Recurrence (months): Time to recurrence after complere resection of mets (months)	Y	Y	N	N	Yes	Yes	No	No	No	No	No	Yes	N	NA	DMP1219	DMP1219
+P-0001317-T01-IM3	P-0001317	27	White	N	N	N	N	Adenocarcinoma NOS	2	Stable	N	IV	IV	Y	N	NA	0	NA	Alive	NA	NA	Y	N	NA	NA	Yes	Yes	No	No	No	No	No	No	Y	13-140	DMP1212	DMP1212
+P-0001318-T01-IM3	P-0001318	49	Asian	N	N	N	N	Adenocarcinoma NOS	2	Stable	N	IV	IV	N	N	NA	0	NA	Dead	37.96666667	Time To Death (Months): Time to death from diagnosis of mets	NA	NA	NA	NA	No	No	No	No	No	No	No	No	N	NA	DMP1208	DMP1208
+P-0001346-T01-IM3	P-0001346	58	White, Hispanic	N	N	N	N	Adenocarcinoma NOS	3	Unknown	Unknown	IV	IV	Y	N	NA	0	NA	Dead	8.833333333	Time To Death (Months): Time to death from diagnosis of mets	N	N	NA	NA	No	No	No	No	No	No	No	No	N	NA	DMP1243	DMP1243
+P-0001347-T01-IM3	P-0001347	44	White	N	N	N	N	Adenocarcinoma NOS	2	Stable	N	IV	IV	Y	Y	N	0	NA	Alive	NA	NA	Y	N	NA	NA	Yes	Yes	Yes	No	Yes	No	No	No	N	NA	DMP1245	DMP1245
+P-0001371-T01-IM3	P-0001371	43	White	N	N	N	N	Adenocarcinoma NOS	3	Stable	N	IV	IV	Y	Y	Y	0	14.63333333	Alive	NA	Time to Recurrence (months): Time to recurrence after complere resection of mets (months)	Y	N	Y	Y	Yes	Yes	Yes	Yes	Yes	No	No	No	N	NA	DMP1251	DMP1251
+P-0001391-T01-IM3	P-0001391	65	White	N	N	N	N	Adenocarcinoma NOS	2	Stable	N	IV	IV	Y	N	NA	0	NA	Alive	NA	NA	Y	N	NA	NA	Yes	Yes	No	No	No	No	No	No	N	NA	DMP1276	DMP1276
+P-0001424-T01-IM3	P-0001424	37	White	N	N	N	N	Adenocarcinoma NOS	3	Stable	N	IV	IV	N	N	NA	0	NA	Dead	14.26666667	Time To Death (Months): Time to death from diagnosis of mets	NA	NA	NA	NA	Yes	Yes	Yes	Yes	No	Yes	No	No	N	NA	DMP1298	DMP1298
+P-0001424-T02-IM3	P-0001424	37	White	N	N	N	N	Adenocarcinoma NOS	3	Stable	N	IV	IV	N	N	NA	0	NA	Dead	14.26666667	Time To Death (Months): Time to death from diagnosis of mets	NA	NA	NA	NA	No	No	No	No	No	No	No	No	N	NA	DMP1544	DMP1544
+P-0001427-T01-IM3	P-0001427	65	White	N	N	N	N	Adenocarcinoma NOS	3	Stable	N	IV	IV	Y	Y	N	0	NA	Alive	NA	NA	Y	N	NA	NA	Yes	Yes	Yes	No	No	No	No	No	N	NA	DMP1316	DMP1316
+P-0001428-T01-IM3	P-0001428	68	White	N	N	N	N	Adenocarcinoma NOS	3	Unknown	Unknown	III	IV	Y	Y	Y	21.13333333	16.8	Dead	133.9333333	Time to Recurrence (months): Time to recurrence after complere resection of mets (months)Time To Death (Months): Time to death from diagnosis of mets	N	N	Y	N	Yes	Yes	Yes	Yes	Yes	No	No	No	Y	14-044	DMP1312	DMP1312
+P-0001459-T01-IM3	P-0001459	42	White	N	N	N	N	Adenocarcinoma with mucinous features	2	Unknown	Unknown	III	IV	Y	N	NA	6.933333333	NA	Alive	NA	NA	N	N	Y	N	No	No	No	No	No	No	No	No	N	NA	DMP1361	DMP1361
+P-0001469-T01-IM3	P-0001469	63	Unknown	N	N	N	N	Adenocarcinoma NOS	3	Stable	N	IV	IV	Y	N	NA	0	NA	Alive	NA	NA	N	N	NA	NA	No	No	No	No	No	No	No	No	N	NA	DMP1360	DMP1360
+P-0001470-T01-IM3	P-0001470	55	White	N	N	N	N	Adenocarcinoma NOS	2	Unknown	Unknown	II	IV	Y	N	NA	48.13333333	NA	Alive	NA	NA	N	N	Y	N	No	No	No	No	No	No	No	No	N	NA	DMP1371	DMP1371
+P-0001472-T01-IM3	P-0001472	69	Asian	N	N	N	N	Adenocarcinoma NOS	2	Unknown	Unknown	II	IV	Y	N	NA	4.6	NA	Alive	NA	NA	N	N	N	N	No	No	No	No	No	No	No	No	N	NA	DMP1368	DMP1368
+P-0001494-T01-IM3	P-0001494	63	White	N	N	Y	N	Adenocarcinoma with mucinous features	2	High	Unknown	IV	IV	Y	N	NA	0	NA	Alive	NA	NA	N	N	NA	NA	No	No	No	No	No	No	No	No	N	NA	DMP1387	DMP1387
+P-0001499-T01-IM3	P-0001499	35	White	N	N	N	N	Adenocarcinoma NOS	2	Stable	N	IV	IV	N	N	NA	0	NA	Alive	NA	NA	N	N	NA	NA	No	No	No	No	No	No	No	No	N	NA	DMP1389	DMP1389
+P-0001525-T01-IM3	P-0001525	62	Black	N	N	N	N	Adenocarcinoma NOS	2	Unknown	Unknown	III	IV	Y	Y	Y	2.733333333	NA	Alive	NA	NA	N	N	Y	Y	Yes	Yes	Yes	No	Yes	No	No	No	N	NA	DMP1418	DMP1418
+P-0001531-T01-IM3	P-0001531	40	White	N	N	N	N	Adenocarcinoma NOS	2	Stable	N	IV	IV	Y	Y	Y	0	NA	Alive	NA	NA	N	N	NA	NA	No	No	No	No	No	No	No	No	N	NA	DMP1416	DMP1416
+P-0001534-T01-IM3	P-0001534	46	White	N	N	N	N	Adenocarcinoma NOS	2	Stable	N	IV	IV	Y	Y	Y	0	NA	Alive	NA	NA	N	N	NA	NA	Yes	Yes	No	No	No	No	No	No	N	NA	DMP1427	DMP1427
+P-0001554-T01-IM3	P-0001554	51	Asian	N	N	N	N	Adenocarcinoma with mucinous features	2	Stable	N	IV	IV	Y	Y	N	0	NA	Alive	NA	NA	N	N	NA	NA	No	No	No	No	No	No	No	No	N	NA	DMP1437	DMP1437
+P-0001577-T01-IM3	P-0001577	74	White	N	N	N	N	Adenocarcinoma NOS	2	Unknown	Unknown	IV	IV	Y	Y	N	0	NA	Alive	NA	NA	Y	N	NA	NA	Yes	Yes	No	No	No	No	No	No	N	NA	DMP1488	DMP1488
+P-0001640-T01-IM3	P-0001640	55	White	N	N	N	N	Adenocarcinoma NOS	2	Stable	N	III	IV	Y	N	NA	68.83333333	NA	Alive	NA	NA	N	N	Y	N	No	No	No	No	No	No	No	No	N	NA	DMP1475	DMP1475
+P-0001647-T01-IM3	P-0001647	40	White	N	N	N	N	Adenocarcinoma NOS	2	Stable	N	III	IV	Y	Y	Y	3.8	18.33333333	Alive	NA	Time to Recurrence (months): Time to recurrence after complere resection of mets (months)	Y	Y	Y	N	Yes	Yes	Yes	No	No	No	No	No	N	NA	DMP1530	DMP1530
+P-0001649-T01-IM3	P-0001649	74	White	N	N	N	N	Adenocarcinoma with mucinous features	2	High	N	II	IV	Y	N	NA	4.233333333	NA	Alive	NA	NA	N	N	Y (suspended for toxicity)	N	No	No	No	No	No	No	No	No	N	NA	DMP1524	DMP1524
+P-0001658-T01-IM3	P-0001658	92	White	N	N	N	N	Adenocarcinoma NOS	3	Unknown	Unknown	III	IV	Y	N	NA	14.93333333	NA	Alive	NA	NA	N	N	N	N	No	No	No	No	No	No	No	No	N	NA	DMP1536	DMP1536
+P-0001662-T01-IM3	P-0001662	63	Black	N	N	N	N	Adenocarcinoma NOS	3	Stable	N	III	IV	Y	N	NA	15.86666667	NA	Alive	NA	NA	Y	Y	N	N	Yes	Yes	No	No	No	No	No	Yes	N	NA	DMP1533	DMP1533
+P-0001670-T01-IM3	P-0001670	72	White	N	N	Y	N	Adenocarcinoma NOS	3	Stable	N	II	II	Y	NA	NA	NA	NA	Alive	NA	NA	N	N	Y	N	No	No	No	No	No	No	No	No	N	NA	DMP1551	DMP1551
+P-0001673-T01-IM3	P-0001673	56	White	N	N	N	N	Adenocarcinoma with mucinous features	2	Stable	N	II	II	Y	NA	NA	NA	NA	Alive	NA	NA	N	N	N	N	No	No	No	No	No	No	No	No	N	NA	DMP1552	DMP1552
+P-0001676-T01-IM3	P-0001676	34	White	N	N	N	N	Adenocarcinoma NOS	2	Stable	N	III	IV	Y	Y	Unknown	9.466666667	NA	Alive	NA	NA	N	N	Y	N	Yes	Yes	No	No	No	No	No	No	N	NA	DMP1554	DMP1554
+P-0001685-T02-IM3	P-0001685	41	Unknown	N	N	N	N	Adenocarcinoma with mucinous features	2	High	Y	II	II	Y	NA	NA	NA	NA	Alive	NA	NA	N	N	N	N	No	No	No	No	No	No	No	No	N	NA	DMP1570	DMP1570
+P-0001685-T01-IM3	P-0001685	41	Unknown	N	N	N	N	Medullary type Adenocarcinoma	2	High	Y	II	II	Y	NA	NA	NA	NA	Alive	NA	NA	N	N	N	N	No	No	No	No	No	No	No	No	N	NA	DMP1562	DMP1562
+P-0001690-T01-IM3	P-0001690	44	White	N	N	N	N	Adenocarcinoma NOS	2	Stable	N	IV	IV	Y	Y	N	0	NA	Alive	NA	NA	NA	NA	NA	NA	No	No	No	No	No	No	No	No	N	NA	DMP1560	DMP1560
+P-0001693-T02-IM3	P-0001693	51	White	N	N	N	N	Adenocarcinoma NOS	2	Stable	N	IV	IV	N	N	NA	0	NA	Alive	NA	NA	NA	NA	NA	NA	No	No	No	No	No	No	No	No	N	NA	DMP1742	DMP1742
+P-0001702-T01-IM3	P-0001702	48	White	N	N	N	N	Adenocarcinoma NOS	Unknown	Stable	N	IV	IV	Y	N	NA	0	NA	Alive	NA	NA	Y	N	NA	NA	Yes	Yes	No	No	No	No	No	No	N	NA	DMP1574	DMP1574
+P-0001729-T01-IM3	P-0001729	52	White	N	N	Y	N	Adenocarcinoma NOS	Unknown	Unknown	Unknown	I	IV	Y	N	NA	118.1666667	NA	Alive	NA	NA	N	N	Y	N	Yes	Yes	Yes	No	Yes	No	No	No	N	NA	DMP1604	DMP1604
+P-0001732-T01-IM3	P-0001732	63	White	N	N	N	N	Adenocarcinoma NOS	2	Stable	N	IV	IV	Y	N	NA	0	NA	Dead	27.66666667	Time To Death (Months): Time to death from diagnosis of mets	N	N	NA	NA	No	No	No	No	No	No	No	No	Y	10-147	DMP1609	DMP1609
+P-0001734-T01-IM3	P-0001734	59	White	N	N	N	N	Adenocarcinoma NOS	2	Unknown	Unknown	IV	IV	N	N	NA	0	NA	Dead	10	Time To Death (Months): Time to death from diagnosis of mets	NA	NA	NA	NA	No	No	No	No	No	No	No	No	Y	14-019	DMP1613	DMP1613
+P-0001742-T01-IM3	P-0001742	61	White	N	N	N	N	Adenocarcinoma NOS	2	Unknown	Unknown	IV	IV	Y	Y	Y	0	14.8	Alive	NA	Time to Recurrence (months): Time to recurrence after complere resection of mets (months)	N	N	Y	N	No	No	No	No	No	No	No	No	N	NA	DMP1623	DMP1623
+P-0001746-T01-IM3	P-0001746	67	Asian	N	N	Y	N	Adenocarcinoma NOS	2	Unknown	Unknown	III	IV	Y	Y	Y	12.8	59.36666667	Alive	NA	Time to Recurrence (months): Time to recurrence after complere resection of mets (months)	N	N	Y	N	Yes	Yes	Yes	No	Yes	No	No	No	N	NA	DMP1624	DMP1624
+P-0001754-T01-IM3	P-0001754	72	Black	N	N	N	N	Adenocarcinoma NOS	3	Unknown	Unknown	IV	IV	N	N	NA	0	NA	Alive	NA	NA	NA	NA	NA	NA	No	No	No	No	No	No	No	No	N	NA	DMP1630	DMP1630
+P-0001761-T01-IM3	P-0001761	58	White	N	N	N	N	Adenocarcinoma NOS	3	Stable	N	IV	IV	N	N	NA	0	NA	Alive	NA	NA	NA	NA	NA	NA	No	No	No	No	No	No	No	No	N	NA	DMP1734	DMP1734
+P-0001767-T01-IM3	P-0001767	46	White	N	N	N	N	Adenocarcinoma NOS	2	Stable	N	III	IV	Y	N	NA	1.366666667	NA	Alive	NA	NA	N	N	NA	NA	No	No	No	No	No	No	No	No	N	NA	DMP1739	DMP1739
+P-0001769-T01-IM3	P-0001769	77	White	N	N	N	N	Adenocarcinoma with mucinous features	2	Stable	N	III	IV	Y	N	NA	2.6	NA	Alive	NA	NA	N	N	NA	NA	No	No	No	No	No	No	No	No	N	NA	DMP1740	DMP1740
+P-0001771-T01-IM3	P-0001771	40	Hispanic	N	N	N	N	Adenocarcinoma NOS	2	Unknown	Unknown	III	IV	Y	N	NA	16.8	NA	Alive	NA	NA	N	N	Y	N	No	No	No	No	No	No	No	No	N	NA	DMP1801	DMP1801
+P-0001778-T01-IM3	P-0001778	50	White	N	N	Y	Y	Adenocarcinoma NOS	2	Unknown	Unknown	IV	IV	Y	N	NA	0	NA	Dead	39.96666667	Time To Death (Months): Time to death from diagnosis of mets	N	N	NA	NA	No	No	No	No	No	No	No	No	N	NA	DMP1651	DMP1651
+P-0001807-T01-IM3	P-0001807	60	White	N	N	N	N	Adenocarcinoma NOS	2	Stable	N	II	IV	Y	Y	Y	51.03333333	16.6	Alive	NA	Time to Recurrence (months): Time to recurrence after complere resection of mets (months)	Y	Y	Y	N	Yes	Yes	No	No	No	No	No	No	N	NA	DMP1669	DMP1669
+P-0001808-T01-IM3	P-0001808	54	Black	N	N	N	N	Adenocarcinoma NOS	2	Stable	N	III	IV	Y	N	NA	13.56666667	NA	Alive	NA	NA	N	N	Y	N	Yes	Yes	No	No	No	No	No	No	N	NA	DMP1673	DMP1673
+P-0001864-T01-IM3	P-0001864	64	White	N	N	N	N	Adenocarcinoma NOS	2	Unknown	Unknown	III	IV	Y	N	NA	55.7	NA	Alive	NA	NA	Y	Y	Y	N	Yes	Yes	No	No	No	No	No	No	N	NA	DMP1753	DMP1753
+P-0001867-T01-IM3	P-0001867	66	White	N	N	N	N	Adenocarcinoma NOS	2	Unknown	Unknown	II	IV	Y	N	NA	12.86666667	NA	Alive	NA	NA	N	N	N	N	Yes	Yes	No	No	No	No	No	No	N	NA	DMP1748	DMP1748
+P-0001909-T01-IM3	P-0001909	53	White	N	N	Y	Y	Adenocarcinoma NOS	2	Stable	N	IV	IV	Y	Y	N	0	NA	Alive	NA	NA	N	N	NA	NA	Yes	Yes	Yes	No	Yes	Yes	No	No	N	NA	DMP1810	DMP1810
+P-0001913-T01-IM3	P-0001913	46	White	N	N	N	N	Adenocarcinoma NOS	2	Stable	N	II	II	Y	NA	NA	NA	NA	Alive	NA	NA	N	N	Y	N	No	No	No	No	No	No	No	No	N	NA	DMP1784	DMP1784
+P-0001923-T01-IM3	P-0001923	63	White	N	N	N	N	Adenocarcinoma NOS	2	Stable	N	IV	IV	Y	Y	Y	0	NA	Alive	NA	NA	N	N	Y	N	No	No	No	No	No	No	No	No	N	NA	DMP1782	DMP1782
+P-0001940-T01-IM3	P-0001940	72	White	N	N	N	N	Adenocarcinoma NOS	2	Stable	N	IV	IV	Y	N	NA	0	NA	Alive	NA	NA	N	N	N	N	No	No	No	No	No	No	No	No	N	NA	DMP1880	DMP1880
+P-0001949-T01-IM3	P-0001949	39	Asian	N	N	Y	Y	Adenocarcinoma NOS	2	Stable	N	III	IV	Y	Y	N	19.23333333	NA	Alive	NA	NA	Y	Y	Y	N	Yes	Yes	Yes	No	Yes	No	No	No	N	NA	DMP1878	DMP1878
+P-0001961-T01-IM3	P-0001961	65	White	N	N	N	N	Adenocarcinoma NOS	2	Stable	N	IV	IV	Y	Y	N	0	NA	Alive	NA	NA	Y	N	NA	NA	Yes	No	Yes	Yes	No	No	No	No	N	NA	DMP2178	DMP2178
+P-0001964-T01-IM3	P-0001964	47	Black	N	N	N	N	Adenocarcinoma NOS	2	Unknown	Unknown	IV	IV	Y	N	NA	0	NA	Alive	NA	NA	N	N	NA	NA	No	No	No	No	No	No	No	No	N	NA	DMP1894	DMP1894
+P-0001984-T01-IM3	P-0001984	48	White	N	N	N	N	Adenocarcinoma NOS	Unknown	Unknown	Unknown	I	IV	Y	N	Y	43.46666667	NA	Alive	NA	NA	N	N	N	N	No	No	No	No	No	No	No	No	N	NA	DMP1920	DMP1920
+P-0002025-T01-IM3	P-0002025	78	White	N	N	Y	N	Adenocarcinoma NOS	3	Stable	N	IV	IV	Y	N	NA	0	NA	Alive	NA	NA	N	N	NA	NA	No	No	No	No	No	No	No	No	N	NA	DMP1950	DMP1950
+P-0002032-T01-IM3	P-0002032	53	Asian	N	N	Y	N	Adenocarcinoma NOS	2	Unknown	Unknown	IV	IV	Y	Y	Y	0	12.2	Alive	NA	Time to Recurrence (months): Time to recurrence after complere resection of mets (months)	N	N	NA	NA	Yes	Yes	Yes	Yes	No	No	No	No	N	NA	DMP1957	DMP1957
+P-0002035-T01-IM3	P-0002035	37	Unknown	N	N	N	N	Adenocarcinoma NOS	2	Stable	N	IV	IV	Y	Y	Y	0	7.966666667	Alive	NA	Time to Recurrence (months): Time to recurrence after complere resection of mets (months)	N	N	NA	NA	No	No	No	No	No	No	No	No	N	NA	DMP1968	DMP1968
+P-0002042-T01-IM3	P-0002042	44	White	N	N	Y	Y	Mucinous Adenocarcinoma	2	Stable	N	III	IV	Y	N	NA	16.06666667	NA	Alive	NA	NA	N	N	Y	N	No	No	No	No	No	No	No	No	N	NA	DMP1978	DMP1978
+P-0002048-T01-IM3	P-0002048	38	White	N	N	N	N	Adenocarcinoma NOS	2	Stable	N	IV	IV	N	N	NA	0	NA	Alive	NA	NA	NA	NA	NA	NA	No	No	No	No	No	No	No	No	N	NA	DMP1970	DMP1970
+P-0002049-T01-IM3	P-0002049	31	White	N	N	N	N	Adenocarcinoma with mucinous features	2	High	Y	III	IV	Y	N	NA	12.66666667	NA	Alive	NA	NA	Y	N	Y	N	Yes	Yes	No	No	No	No	No	No	Y	12-179	DMP1976	DMP1976
+P-0002057-T01-IM3	P-0002057	60	White	N	N	N	N	Mucinous Adenocarcinoma	3	Stable	N	III	IV	Y	Y	Y	1.233333333	21.63333333	Alive	NA	Time to Recurrence (months): Time to recurrence after complere resection of mets (months)	N	N	NA	NA	No	No	No	No	No	No	No	No	N	NA	DMP1821	DMP1821
+P-0002068-T01-IM3	P-0002068	52	Black	N	N	Y	N	Adenocarcinoma NOS	2	Stable	N	III	IV	Y	N	NA	5.266666667	NA	Alive	NA	NA	N	N	Y (recurrence during treatment)	N	No	No	No	No	No	No	No	No	N	NA	DMP1829	DMP1829
+P-0002070-T01-IM3	P-0002070	60	White	N	N	N	N	Adenocarcinoma NOS	2	Stable	N	IV	IV	Y	N	NA	0	NA	Alive	NA	NA	N	N	NA	NA	No	No	No	No	No	No	No	No	N	NA	DMP1830	DMP1830
+P-0002078-T01-IM3	P-0002078	20	Asian	N	N	N	N	Adenocarcinoma with mucinous features	2	Stable	N	IV	IV	N	N	NA	0	NA	Dead	8.433333333	Time To Death (Months): Time to death from diagnosis of mets	NA	NA	NA	NA	Yes	Yes	No	No	Yes	No	No	No	N	NA	DMP1835	DMP1835
+P-0002080-T01-IM3	P-0002080	59	Black	N	N	N	N	Adenocarcinoma NOS	Unknown	Unknown	Unknown	II	IV	Y	Y	Y	49.1	15.46666667	Alive	NA	Time to Recurrence (months): Time to recurrence after complere resection of mets (months)	N	N	Y	N	Yes	Yes	No	No	No	No	No	No	N	NA	DMP1838	DMP1838
+P-0002095-T01-IM3	P-0002095	44	Asian	N	N	N	N	Adenocarcinoma with mucinous features	2	Stable	N	IV	IV	Y	Y	N	0	NA	Alive	NA	NA	Y	N	NA	NA	Yes	Yes	No	No	Yes	No	No	No	N	NA	DMP1851	DMP1851
+P-0002102-T01-IM3	P-0002102	51	Black	N	N	Y	N	Adenocarcinoma NOS	2	Stable	N	IV	IV	N	N	NA	0	NA	Alive	NA	NA	NA	NA	NA	NA	No	No	No	No	No	No	No	No	N	NA	DMP1852	DMP1852
+P-0002154-T01-IM3	P-0002154	51	White	N	N	N	N	Adenocarcinoma NOS	3	Unknown	Unknown	III	IV	Y	N	NA	3.433333333	NA	Alive	NA	NA	N	N	Y	N	No	No	No	No	No	No	No	No	N	NA	DMP2032	DMP2032
+P-0002155-T01-IM3	P-0002155	57	White	N	N	N	N	Adenocarcinoma NOS	2	Unknown	Unknown	IV	IV	N	N	NA	0	NA	Alive	NA	NA	NA	NA	NA	NA	No	No	No	No	No	No	No	No	N	NA	DMP2029	DMP2029
+P-0002164-T01-IM3	P-0002164	69	White	N	N	N	N	Adenocarcinoma NOS	2	Unknown	Unknown	III	III	Y	NA	NA	NA	NA	Alive	NA	NA	N	N	Y	N	No	No	No	No	No	No	No	No	N	NA	DMP2030	DMP2030
+P-0002235-T01-IM3	P-0002235	80	White	N	N	N	N	Adenocarcinoma NOS	2	Unknown	Unknown	III	IV	Y	N	NA	10.56666667	NA	Alive	NA	NA	N	N	Y (suspended for toxicity)	N	No	No	No	No	No	No	No	No	N	NA	DMP2163	DMP2163
+P-0002238-T01-IM3	P-0002238	69	White	N	Y	Y	Y	Adenocarcinoma NOS	2	Unknown	Unknown	IV	IV	Y	Y	Y	0	44.2	Alive	NA	Time to Recurrence (months): Time to recurrence after complere resection of mets (months)	N	N	NA	NA	Yes	No	No	No	No	No	No	No	N	NA	DMP1996	DMP1996
+P-0002251-T01-IM3	P-0002251	48	White	N	N	N	N	Adenocarcinoma NOS	2	Unknown	Unknown	IV	IV	Y	Y	N	0	NA	Alive	NA	NA	Y	Y	NA	NA	Yes	Yes	Yes	No	No	Yes	No	Yes	N	NA	DMP1985	DMP1985
+P-0002268-T01-IM3	P-0002268	74	White	N	N	Y	N	Adenocarcinoma NOS	2	Unknown	Unknown	IV	IV	Y	Y	Y	0	NA	Alive	NA	NA	Y	N	Y	N	Yes	Yes	No	No	No	No	No	No	N	NA	DMP2188	DMP2188
+P-0002291-T01-IM3	P-0002291	42	White	N	N	N	N	Adenocarcinoma NOS	2	Stable	N	IV	IV	Y	Y	Y	0	12.76666667	Alive	NA	Time to Recurrence (months): Time to recurrence after complere resection of mets (months)	Y	N	Y	N	Yes	Yes	No	No	No	No	No	No	N	NA	DMP2196	DMP2196
+P-0002321-T01-IM3	P-0002321	56	White	N	N	N	N	Mucinous Adenocarcinoma	2	Stable	N	IV	IV	N	Y	N	0	NA	Alive	NA	NA	N	N	NA	NA	No	No	No	No	No	No	No	No	N	NA	DMP2283	DMP2283
+P-0002323-T01-IM3	P-0002323	51	White	N	N	N	N	Adenocarcinoma NOS	3	Unknown	Unknown	II	IV	Y	N	NA	29.5	NA	Alive	NA	NA	N	N	N	N	No	No	No	No	No	No	No	No	N	NA	DMP2288	DMP2288
+P-0002327-T01-IM3	P-0002327	60	White	N	N	N	N	Adenocarcinoma NOS	3	Unknown	Unknown	IV	IV	Y	Y	N	0	NA	Alive	NA	NA	N	N	NA	NA	No	No	No	No	No	No	No	No	N	NA	DMP2281	DMP2281
+P-0002339-T01-IM3	P-0002339	76	White	N	N	N	N	Adenocarcinoma with mucinous features	3	Unknown	Unknown	IV	IV	N	N	NA	0	NA	Alive	NA	NA	NA	NA	NA	NA	No	No	No	No	No	No	No	No	N	NA	DMP2301	DMP2301
+P-0002343-T01-IM3	P-0002343	68	White	N	N	N	N	Adenocarcinoma NOS	2	Pending	Unknown	IV	IV	Y	N	NA	0	NA	Alive	NA	NA	N	N	NA	NA	No	No	No	No	No	No	No	No	N	NA	DMP2302	DMP2302
+P-0002395-T01-IM3	P-0002395	67	White	N	N	N	N	Adenocarcinoma NOS	Unknown	Unknown	Unknown	IV	IV	N	N	NA	0	NA	Dead	16.33333333	Time To Death (Months): Time to death from diagnosis of mets	NA	NA	NA	NA	No	No	No	No	No	No	No	No	N	NA	DMP2132	DMP2132
+P-0002407-T01-IM3	P-0002407	45	Unknown	N	N	Y	N	Adenocarcinoma NOS	3	Stable	N	II	IV	Y	N	NA	12.93333333	NA	Alive	NA	NA	N	N	Y	N	No	No	No	No	No	No	No	No	N	NA	DMP2228	DMP2228
+P-0002413-T01-IM3	P-0002413	51	Asian	N	N	N	N	Adenocarcinoma NOS	2	Stable	N	IV	IV	Y	N	NA	0	NA	Alive	NA	NA	N	N	NA	NA	No	No	No	No	No	No	No	No	N	NA	DMP2220	DMP2220
+P-0002438-T01-IM3	P-0002438	24	White	N	N	N	N	Adenocarcinoma NOS	2	Unknown	Unknown	IV	IV	Y	Y	N	0	NA	Alive	NA	NA	N	N	NA	NA	Yes	Yes	Yes	Yes	Yes	No	No	No	N	NA		
+P-0002442-T01-IM3	P-0002442	59	White	N	N	Y	N	Adenocarcinoma NOS	2	Stable	N	IV	IV	N	N	NA	0	NA	Alive	NA	NA	NA	NA	NA	NA	No	No	No	No	No	No	No	No	N	NA		
+P-0002455-T01-IM3	P-0002455	68	White	N	N	N	N	Adenocarcinoma with mucinous features	3	Unknown	Unknown	III	IV	Y	N	NA	25.8	NA	Dead	5.466666667	Time To Death (Months): Time to death from diagnosis of mets	N	N	Y (suspended for toxicity)	N	Yes	Yes	No	No	No	No	No	No	N	NA		
+P-0002463-T01-IM3	P-0002463	57	White	N	N	N	N	Adenocarcinoma NOS	3	High	N	IV	IV	Y	Y	Y	0	4.1	Alive	NA	Time to Recurrence (months): Time to recurrence after complere resection of mets (months)	N	N	Y (recurrence during treatment)	N	Yes	Yes	Yes	Yes	Yes	No	No	No	Y	14-019		
+P-0002463-T02-IM5	P-0002463	57	White	N	N	N	N	Adenocarcinoma NOS	3	High	N	IV	IV	Y	Y	Y	0	4.1	Alive	NA	Time to Recurrence (months): Time to recurrence after complere resection of mets (months)	N	N	Y (recurrence during treatment)	N	No	No	No	No	No	No	No	No	Y	14-019		
+P-0002475-T01-IM3	P-0002475	68	White	N	N	N	N	Adenocarcinoma NOS	2	Unknown	Unknown	III	IV	Y	N	NA	13.2	NA	Alive	NA	NA	N	N	Y	N	No	No	No	No	No	No	No	No	N	NA		
+P-0002487-T01-IM3	P-0002487	45	White	N	N	N	N	Adenocarcinoma NOS	3	Stable	N	III	IV	Y	N	NA	7.166666667	NA	Dead	1.666666667	Time To Death (Months): Time to death from diagnosis of mets	N	N	Y	N	Yes	Yes	No	No	No	No	No	No	N	NA		
+P-0002488-T01-IM3	P-0002488	64	White	N	N	N	N	Adenocarcinoma NOS	2	Stable	N	III	IV	Y	Y	N	29.03333333	NA	Alive	NA	NA	Y	Y	Y	N	Yes	No	No	No	No	No	No	Yes	N	NA		
+P-0002512-T01-IM3	P-0002512	55	White	Y	N	N	N	Adenocarcinoma with mucinous features	3	Stable	N	III	IV	Y	N	NA	23.03333333	NA	Alive	NA	NA	Y	N	N	N	Yes	Yes	No	No	No	No	No	No	N	NA		
+P-0002529-T01-IM3	P-0002529	68	White, Hispanic	N	N	N	N	Adenocarcinoma NOS	3	Unknown	Unknown	IV	IV	Y	Y	N	0	NA	Alive	NA	NA	N	N	NA	NA	No	No	No	No	No	No	No	No	N	NA		
+P-0002563-T01-IM3	P-0002563	68	White	N	N	N	N	Adenocarcinoma NOS	2	Unknown	Unknown	II	IV	Y	N	NA	32.66666667	NA	Alive	NA	NA	Y	Y	N	N	Yes	Yes	No	No	No	No	No	Yes	N	NA		
+P-0002565-T01-IM3	P-0002565	52	White	N	N	N	N	Adenocarcinoma NOS	2	Unknown	Unknown	IV	IV	Y	Y	Y	0	17.6	Alive	NA	Time to Recurrence (months): Time to recurrence after complere resection of mets (months)	Y	Y	Y	N	Yes	Yes	No	No	No	No	No	No	N	NA		
+P-0002653-T01-IM3	P-0002653	17	White, Hispanic	N	N	N	N	Signet Ring Cell Carcinoma	3	Stable	N	IV	IV	Y	N	NA	0	NA	Alive	NA	NA	N	N	NA	NA	No	No	No	No	No	No	No	No	N	NA		
+P-0002665-T01-IM3	P-0002665	59	Black	N	N	N	N	Adenocarcinoma NOS	Unknown	Unknown	Unknown	IV	IV	N	N	NA	0	NA	Alive	NA	NA	NA	NA	NA	NA	No	No	No	No	No	No	No	No	N	NA		
+P-0002670-T01-IM3	P-0002670	57	White	N	N	N	N	Adenocarcinoma NOS	2	Unknown	Unknown	IV	IV	Y	N	NA	0	NA	Alive	NA	NA	N	N	NA	NA	No	No	No	No	No	No	No	No	N	NA		
+P-0002671-T01-IM3	P-0002671	61	White	N	N	N	N	Adenocarcinoma NOS	3	High	Unknown	IV	IV	Y	N	NA	0	NA	Dead	5.966666667	Time To Death (Months): Time to death from diagnosis of mets	Y	N	NA	NA	Yes	Yes	No	No	No	No	No	No	N	NA		
+P-0002673-T01-IM3	P-0002673	53	White	N	N	N	N	Mucinous Adenocarcinoma	2	Stable	N	IV	IV	Y	Y	N	0	NA	Alive	NA	NA	N	N	NA	NA	Yes	Yes	No	No	No	No	No	No	N	NA		
+P-0002678-T01-IM3	P-0002678	37	Unknown	N	N	N	N	Adenocarcinoma with mucinous features	3	Stable	N	III	IV	Y	N	NA	10.43333333	NA	Dead	2.533333333	Time To Death (Months): Time to death from diagnosis of mets	N	N	Y	N	No	No	No	No	No	No	No	No	N	NA		
+P-0002702-T01-IM3	P-0002702	63	Asian	N	N	N	N	Adenocarcinoma NOS	2	Unknown	Unknown	IV	IV	Y	Y	Y	0	24.1	Alive	NA	Time to Recurrence (months): Time to recurrence after complere resection of mets (months)	N	N	NA	NA	Yes	Yes	Yes	Yes	Yes	Yes	No	No	N	NA		
+P-0002721-T01-IM3	P-0002721	64	White	N	N	N	N	Adenocarcinoma NOS	2	Unknown	Unknown	IV	IV	N	N	NA	0	NA	Alive	NA	NA	NA	NA	NA	NA	No	No	No	No	No	No	No	No	N	NA		
+P-0002724-T01-IM3	P-0002724	50	White	N	N	N	N	Adenocarcinoma NOS	2	Stable	N	IV	IV	Y	Y	Y	0	NA	Alive	NA	NA	N	N	Y	N	No	No	No	No	No	No	No	No	N	NA		
+P-0002728-T01-IM3	P-0002728	52	White	N	N	N	N	Adenocarcinoma NOS	3	Stable	N	IV	IV	Y	Y	N	0	NA	Alive	NA	NA	Y	N	NA	NA	No	No	No	No	No	No	No	No	N	NA		
+P-0002730-T01-IM3	P-0002730	49	White	N	N	N	N	Adenocarcinoma NOS	3	Stable	N	IV	IV	Y	N	NA	0	NA	Alive	NA	NA	N	N	NA	NA	No	No	No	No	No	No	No	No	N	NA		
+P-0002752-T01-IM3	P-0002752	53	White	N	N	N	N	Adenocarcinoma NOS	2	Stable	N	IV	IV	Y	Y	Y	0	NA	Alive	NA	NA	N	N	Y	N	No	No	No	No	No	No	No	No	N	NA		
+P-0002769-T01-IM3	P-0002769	49	White	N	N	N	N	Adenocarcinoma NOS	2	Stable	N	IV	IV	Y	Y	Y	0	13.73333333	Alive	NA	Time to Recurrence (months): Time to recurrence after complere resection of mets (months)	Y	N	Y	N	Yes	Yes	No	No	No	No	No	No	N	NA		
+P-0002770-T01-IM3	P-0002770	31	White	N	N	N	N	Adenocarcinoma NOS	2	Stable	N	IV	IV	Y	Y	N	0	NA	Alive	NA	NA	Y	N	NA	NA	Yes	Yes	Yes	No	Yes	No	No	No	N	NA		
+P-0002778-T01-IM3	P-0002778	54	White	N	N	N	N	Adenocarcinoma NOS	3	Stable	N	IV	IV	Y	Y	Y	0	NA	Alive	NA	NA	N	N	NA	NA	No	No	No	No	No	No	No	No	N	NA		
+P-0002788-T01-IM3	P-0002788	58	White	N	N	N	N	Adenocarcinoma NOS	3	Stable	N	IV	IV	Y	Y	N	0	NA	Dead	9.8	Time To Death (Months): Time to death from diagnosis of mets	N	N	NA	NA	Yes	Yes	Yes	No	No	Yes	No	No	N	NA		
+P-0002791-T01-IM3	P-0002791	78	Unknown	N	N	N	N	Adenocarcinoma NOS	2	Stable	N	II	IV	Y	N	NA	8.233333333	NA	Alive	NA	NA	N	N	N	N	No	No	No	No	No	No	No	No	N	NA		
+P-0002792-T01-IM3	P-0002792	57	White	N	N	N	N	Adenocarcinoma NOS	Unknown	Stable	N	IV	IV	N	N	NA	0	NA	Alive	NA	NA	N	N	NA	NA	No	No	No	No	No	No	No	No	N	NA		
+P-0002795-T01-IM3	P-0002795	57	White	N	N	N	N	Adenocarcinoma NOS	2	Unknown	Unknown	IV	IV	N	N	NA	0	NA	Alive	NA	NA	N	N	NA	NA	No	No	No	No	No	No	No	No	N	NA		
+P-0002804-T01-IM3	P-0002804	47	White	N	N	N	N	Adenocarcinoma NOS	2	Stable	N	III	IV	Y	Y	N	17.73333333	NA	Alive	NA	NA	N	N	Y	N	Yes	Yes	No	No	No	No	No	No	N	NA		
+P-0002814-T01-IM3	P-0002814	54	White	N	N	N	N	Adenocarcinoma NOS	2	Stable	N	III	IV	Y	Y	Y	13.66666667	14.76666667	Alive	NA	Time to Recurrence (months): Time to recurrence after complere resection of mets (months)	N	N	Y	N	Yes	Yes	Yes	No	No	No	No	No	N	NA		
+P-0002835-T01-IM3	P-0002835	60	White	N	N	N	N	Adenocarcinoma NOS	2	Stable	N	II	IV	Y	Y	Y	11.23333333	9.433333333	Alive	NA	Time to Recurrence (months): Time to recurrence after complere resection of mets (months)	N	N	Y	N	Yes	No	No	No	No	No	No	No	N	NA		
+P-0002852-T01-IM3	P-0002852	65	Unknown	N	N	Y	Y	Adenocarcinoma NOS	3	Stable	N	III	IV	Y	N	NA	13	NA	Alive	NA	NA	Y	Y	Y (recurrence during treatment)	NA	Yes	No	No	No	No	No	No	Yes	N	NA		
+P-0002855-T01-IM3	P-0002855	44	White	N	N	N	N	Adenocarcinoma NOS	2	Unknown	Unknown	IV	IV	N	N	NA	0	NA	Alive	NA	NA	N	N	NA	NA	No	No	No	No	No	No	No	No	N	NA		
+P-0002878-T01-IM3	P-0002878	62	Black	N	N	N	N	Adenocarcinoma NOS	2	Unknown	Unknown	II	IV	Y	N	NA	4.5	NA	Alive	NA	NA	N	N	Y (recurrence during treatment)	N	No	No	No	No	No	No	No	No	N	NA		
+P-0002884-T01-IM3	P-0002884	46	White	N	N	N	N	Adenocarcinoma NOS	2	Stable	N	IV	IV	N	N	NA	0	NA	Alive	NA	NA	NA	NA	NA	NA	No	No	No	No	No	No	No	No	N	NA		
+P-0002902-T01-IM3	P-0002902	84	White	N	N	Y	N	Mucinous Adenocarcinoma	2	Unknown	Unknown	III	IV	Y	N	NA	13.03333333	NA	Alive	NA	NA	N	N	Y	N	No	No	No	No	No	No	No	No	N	NA		
+P-0002951-T01-IM3	P-0002951	62	White	N	N	N	N	Adenocarcinoma NOS	2	Stable	N	IV	IV	Y	N	NA	0	NA	Alive	NA	NA	N	N	NA	NA	No	No	No	No	No	No	No	No	N	NA		
+P-0002994-T01-IM3	P-0002994	29	White	N	N	N	N	Adenocarcinoma NOS	3	Stable	N	III	IV	Y	N	NA	67.9	NA	Alive	NA	NA	N	N	Y	Y	No	No	No	No	No	No	No	No	N	NA		
+P-0003011-T01-IM3	P-0003011	49	White	N	N	N	N	Adenocarcinoma NOS	2	Stable	N	III	III	Y	NA	NA	NA	NA	Alive	NA	NA	N	N	Y	N	No	No	No	No	No	No	No	No	N	NA		
+P-0003035-T01-IM5	P-0003035	93	White	N	N	N	N	Adenocarcinoma NOS	3	Unknown	Unknown	IV	IV	N	N	NA	0	NA	Alive	NA	NA	N	N	NA	NA	No	No	No	No	No	No	No	No	N	NA		
+P-0003046-T01-IM3	P-0003046	55	Unknown	N	N	N	N	Adenocarcinoma NOS	2	Stable	N	IV	IV	Y	N	NA	0	NA	Alive	NA	NA	Y	N	NA	NA	No	No	No	No	No	No	No	No	N	NA		
+P-0003077-T01-IM5	P-0003077	33	Unknown	N	N	N	N	Adenocarcinoma NOS	Unknown	Stable	N	IV	IV	Y	Y	Y	0	NA	Alive	NA	NA	N	N	NA	NA	Yes	Yes	Yes	No	Yes	No	No	No	N	NA		
+P-0003110-T01-IM5	P-0003110	40	Asian	N	N	N	N	Adenocarcinoma NOS	2	Stable	N	III	IV	Y	Y	N	29.03333333	NA	Alive	NA	NA	N	N	Y	N	Yes	Yes	No	No	No	No	No	No	N	NA		
+P-0003124-T01-IM5	P-0003124	54	White	N	N	N	N	Adenocarcinoma NOS	3	Unknown	Unknown	IV	IV	N	N	NA	0	NA	Alive	NA	NA	NA	NA	NA	NA	No	No	No	No	No	No	No	No	N	NA		
+P-0003130-T01-IM5	P-0003130	31	Black	N	N	N	N	Adenocarcinoma NOS	2	Stable	N	IV	IV	N	N	NA	0	NA	Alive	NA	NA	NA	NA	NA	NA	No	No	No	No	No	No	No	No	N	NA		
+P-0003136-T01-IM5	P-0003136	56	White	N	N	N	N	Adenocarcinoma NOS	3	Unknown	Unknown	IV	IV	N	N	NA	0	NA	Alive	NA	NA	NA	NA	NA	NA	No	No	No	No	No	No	No	No	N	NA		
+P-0003154-T01-IM5	P-0003154	48	White	N	N	N	N	Adenocarcinoma NOS	3	Unknown	Unknown	III	IV	Y	N	NA	45.26666667	NA	Alive	NA	NA	Y	Y	Y	N	Yes	Yes	No	No	No	No	No	No	N	NA		
+P-0003183-T01-IM5	P-0003183	73	White	N	N	N	N	Adenocarcinoma NOS	3	Stable	N	I	IV	Y	N	NA	7.466666667	NA	Alive	NA	NA	N	N	N	N	No	No	No	No	No	No	No	No	N	NA		
+P-0003184-T01-IM5	P-0003184	44	Black	N	N	N	N	Adenocarcinoma NOS	2	Stable	N	III	IV	Y	N	NA	33.83333333	NA	Alive	NA	NA	Y	Y	N	N	Yes	Yes	No	No	No	No	No	Yes	N	NA		
+P-0003209-T01-IM5	P-0003209	76	Asian	N	N	N	N	Adenocarcinoma NOS	3	High	Unknown	IV	IV	Y	Y	Y	0	NA	Alive	NA	NA	Y	N	N	N	Yes	Yes	No	No	No	No	No	No	N	NA		
+P-0003210-T01-IM5	P-0003210	56	White	N	N	N	N	Adenocarcinoma NOS	2	Unknown	Unknown	II	IV	Y	N	NA	11.33333333	NA	Alive	NA	NA	N	N	N	N	No	No	No	No	No	No	No	No	N	NA		
+P-0003211-T01-IM5	P-0003211	57	White	N	N	N	N	Adenocarcinoma NOS	2	Unknown	Unknown	IV	IV	Y	Y	N	0	NA	Alive	NA	NA	N	N	NA	NA	No	No	No	No	No	No	No	No	N	NA		
+P-0003254-T01-IM5	P-0003254	30	Asian	N	N	N	N	Adenocarcinoma with mucinous features	Unknown	Stable	N	II	IV	Y	Y	Y	9.433333333	9.366666667	Alive	NA	Time to Recurrence (months): Time to recurrence after complere resection of mets (months)	N	N	N	N	Yes	Yes	No	Yes	No	No	No	No	N	NA		
+P-0003258-T01-IM5	P-0003258	34	White, Hispanic	N	N	N	N	Adenocarcinoma NOS	2	Unknown	Unknown	III	IV	Y	Y	Y	6.866666667	20.5	Alive	NA	Time to Recurrence (months): Time to recurrence after complere resection of mets (months)	N	N	Y	N	Yes	Yes	No	No	No	No	No	No	N	NA		
+P-0003284-T01-IM5	P-0003284	26	White	N	N	N	N	Mucinous Adenocarcinoma	2	Stable	N	III	IV	Y	Y	Y	14.46666667	6.233333333	Alive	NA	Time to Recurrence (months): Time to recurrence after complere resection of mets (months)	N	N	Y	N	Yes	Yes	No	No	No	No	No	No	N	NA		
+P-0003285-T01-IM5	P-0003285	33	White	N	N	N	N	Adenocarcinoma NOS	2	Stable	N	III	IV	Y	Y	Y	22.16666667	NA	Alive	NA	NA	Y	Y	Y	N	Yes	Yes	Yes	No	Yes	No	No	No	N	NA		
+P-0003298-T01-IM5	P-0003298	66	White	N	N	N	N	Adenocarcinoma NOS	2	Stable	N	IV	IV	Y	N	NA	0	NA	Alive	NA	NA	N	N	NA	NA	No	No	No	No	No	No	No	No	N	NA		
+P-0003301-T01-IM5	P-0003301	49	Unknown	N	N	N	N	Adenocarcinoma NOS	2	Stable	N	III	IV	Y	N	NA	14.3	NA	Alive	NA	NA	Y	Y	Y	N	Yes	No	No	No	No	No	No	Yes	N	NA		
+P-0003308-T01-IM5	P-0003308	49	Unknown	N	N	Y	N	Adenocarcinoma NOS	2	Stable	N	IV	IV	Y	Y	Y	0	NA	Alive	NA	NA	N	N	Y	N	No	No	No	No	No	No	No	No	N	NA		
+P-0003348-T01-IM5	P-0003348	38	White	N	N	N	N	Adenocarcinoma NOS	2	Stable	N	IV	IV	Y	Y	Y	0	NA	Alive	NA	NA	Y	N	Y	N	Yes	Yes	No	No	No	No	No	No	N	NA		
+P-0003365-T01-IM5	P-0003365	45	White	N	N	N	N	Adenocarcinoma NOS	2	Stable	N	IV	IV	Y	Y	Y	0	9.6	Alive	NA	Time to Recurrence (months): Time to recurrence after complere resection of mets (months)	Y	N	N	N	Yes	Yes	No	No	No	No	No	No	N	NA		
+P-0003397-T01-IM5	P-0003397	42	White	N	N	N	N	Adenocarcinoma NOS	Unknown	Unknown	Unknown	I	IV	Y	Y	Y	41.83333333	13.2	Alive	NA	Time to Recurrence (months): Time to recurrence after complere resection of mets (months)	Y	Y	N	N	Yes	No	No	No	No	No	No	No	N	NA		
+P-0003437-T01-IM5	P-0003437	46	White	N	N	N	N	Adenocarcinoma NOS	2	Stable	N	III	IV	Y	N	NA	16.56666667	NA	Alive	NA	NA	N	N	Y	Y	No	No	No	No	No	No	No	No	N	NA		
+P-0003474-T01-IM5	P-0003474	43	White	N	N	N	N	Adenocarcinoma NOS	2	Stable	N	IV	IV	Y	Y	N	0	NA	Alive	NA	NA	N	N	NA	NA	No	No	No	No	No	No	No	No	N	NA		
+P-0003475-T01-IM5	P-0003475	61	White	N	N	N	N	Adenocarcinoma NOS	2	Stable	N	IV	IV	Y	Y	Y	0	7.933333333	Alive	NA	Time to Recurrence (months): Time to recurrence after complere resection of mets (months)	Y	N	NA	NA	Yes	Yes	Yes	No	Yes	No	No	No	N	NA		
+P-0003796-T01-IM5	P-0003796	38	White, Hispanic	N	N	N	N	Adenocarcinoma NOS	3	High	Y	III	III	Y	NA	NA	NA	NA	Alive	NA	NA	Y	Y	N	N	Yes	Yes	No	No	No	No	No	Yes	N	NA		
+P-0006559-T01-IM5	P-0006559	68	white	N	N	N	N	Adenocarcinoma	2	Stable	N	IV	IV	N	N	NA	0	NA	Alive	NA	NA	NA	N	NA	NA	No	No	No	No	No	No	No	No	N	NA		
+P-0006564-T01-IM5	P-0006564	58	White	N	N	N	N	Adenocarcinoma	2	Stable	N	IV	IV	Y	Y	Y	0	NA	Alive	NA	NA	Y	N	Y	N	No	No	No	No	No	No	No	No	N	NA		
+P-0006575-T01-IM5	P-0006575	49	White	N	N	N	N	Adenocarcinoma	2	Unknown	Unknown	IV	IV	Y	Y	Y	0	135.4333333	Alive	NA	Time to Recurrence (months): Time to recurrence after complere resection of mets (months)	N	N	Y	N	Yes	Yes	Yes	No	No	Yes	No	No	N	NA		
+P-0006581-T01-IM5	P-0006581	78	White	N	N	Y	Y	Adenocarcinoma	2	Unknown	Unknown	IV	IV	Y	Y	Y	0	2.633333333	Alive	NA	Time to Recurrence (months): Time to recurrence after complere resection of mets (months)	N	N	N	N	No	No	No	No	No	No	No	No	N	NA		
+P-0006587-T01-IM5	P-0006587	50	White	N	N	N	N	Adenocartcinoma	2	Unknown	Unknown	IV	IV	N	N	NA	0	0.4	Alive	NA	Time to Recurrence (months): Time to recurrence after complere resection of mets (months)	N	N	N	N	No	No	No	No	No	No	No	No	N	NA		
+P-0006589-T01-IM5	P-0006589	22	Black	N	N	N	N	Adenocarcinoma	2	Unknown	Unknown	IV	IV	N	N	NA	0	NA	Alive	NA	NA	N	N	N	N	No	No	No	No	No	No	No	No	N	NA		
+P-0006592-T01-IM5	P-0006592	51	White	N	N	N	N	Adenocarcinoma	2	Stable	N	IV	IV	Y	Y	Y	0	NA	Alive	NA	NA	N	N	Y	N	No	No	No	No	No	No	No	No	N	NA		
+P-0006608-T01-IM5	P-0006608	47	White	N	N	N	N	Adenocarcinoma	2	Stable	N	IV	IV	y	Y	Y	0	NA	Alive	NA	NA	NA	N	NA	N	Yes	Yes	Yes	Yes	Yes	No	No	No	N	NA		
+P-0006612-T01-IM5	P-0006612	70	White	N	N	N	N	Adenocarcinoma	2	Stable	N	III	III	Y	NA	Y	NA	NA	Alive	NA	NA	N	N	NA	N	No	No	No	No	No	No	No	No	N	NA		
+P-0006616-T01-IM5	P-0006616	50	White	N	N	N	N	Adenocarcinoma	3	Unknown	Unknown	IV	IV	Y	N	NA	0	NA	Alive	NA	NA	N	N	NA	N	No	No	No	No	No	No	No	No	N	NA		
+P-0006627-T01-IM5	P-0006627	52	White	N	N	N	N	Adenocarcinoma	2	Stable	Unknown	IV	IV	Y	Y	Y	0	NA	Alive	NA	NA	Y	N	NA	N	Yes	Yes	No	No	No	No	No	No	N	NA		
+P-0006636-T01-IM5	P-0006636	75	Asian	N	N	Y	N	Adenocarcinoma	2	Unknown	Unknown	III	IV	Y	N	NA	20.9	NA	Alive	NA	NA	N	Y	Y	N	Yes	Yes	Yes	No	Yes	No	No	No	N	NA		
+P-0006646-T01-IM5	P-0006646	67	White	N	N	N	N	Adenocarcinoma	2	Stable	N	IV	IV	Y	Y	Y	0	NA	Alive	NA	NA	Y	N	Y	N	Yes	Yes	No	No	No	No	No	No	N	NA		
+P-0006647-T01-IM5	P-0006647	52	White	N	N	N	N	Adenocarcinoma	2	Unknown	Unknown	IV	IV	Y	N	NA	0	NA	Alive	NA	NA	Y	N	N	N	Yes	Yes	No	No	Yes	No	No	No	N	NA		
+P-0006649-T01-IM5	P-0006649	69	White	N	N	N	N	Adenocarcinoma	2	High	Unknown	IV	IV	Y	Y	Y	0	NA	Alive	NA	NA	Y	N	Y	N	Yes	Yes	No	No	No	No	No	No	N	NA		
+P-0006657-T01-IM5	P-0006657	48	White	Y	N	N	N	Adenocarcinoma	3	Unknown	Unknown	IV	IV	Y	N	NA	0	NA	Dead	34.2	Time To Death (Months): Time to death from diagnosis of mets	Y	N	NA	N	Yes	Yes	Yes	No	No	Yes	No	No	N	NA		
+P-0006658-T01-IM5	P-0006658	64	White	N	N	N	N	Adenocarcinoma	2	Unknown	Unknown	IV	IV	Y	Y	Y	0	NA	Alive	NA	NA	Y	N	NA	N	Yes	Yes	No	Yes	No	Yes	No	No	N	NA		
+P-0006659-T01-IM5	P-0006659	49	White	N	N	N	N	Adenocarcinoma	2	Unknown	Unknown	IV	IV	Y	Y	Y	0	NA	Alive	NA	NA	N	N	Y	N	No	No	No	No	No	No	No	No	N	NA		
+P-0006669-T01-IM5	P-0006669	42	White	N	N	N	N	Adenocarcinoma	2	Stable	N	IV	IV	N	N	NA	0	NA	Alive	NA	NA	N	N	N	N	No	No	No	No	No	No	No	No	N	NA		
+P-0006680-T01-IM5	P-0006680	80	White	N	N	Y	Y	Adenocarcinoma	2	Stable	N	II	II	Y	NA	Y	NA	NA	Alive	NA	NA	N	N	N	N	No	No	No	No	No	No	No	No	N	NA		
+P-0006681-T01-IM5	P-0006681	56	White	N	N	N	N	Adenocarcinoma	2	Unknown	Unknown	II	IV	Y	Y	Y	65.03333333	NA	Alive	NA	NA	N	N	N	N	No	No	No	No	No	No	No	No	N	NA		
+P-0006683-T01-IM5	P-0006683	56	White	N	N	N	N	Adenocarcinoma	2	Unknown	Unknown	IV	IV	Y	N	N	0	NA	Dead	28.17	Time To Death (Months): Time to death from diagnosis of mets	Y	N	NA	N	Yes	Yes	No	No	Yes	No	No	No	N	NA		
+P-0006685-T01-IM5	P-0006685	57	White	N	N	N	N	Adenocarcinoma	2	Unknown	Unknown	IV	IV	Y	Y	Y	0	NA	Alive	NA	NA	Y	Y	N	N	Yes	Yes	No	No	No	No	No	Yes	N	NA		
+P-0006686-T01-IM5	P-0006686	58	White	N	N	N	N	Adenocarcinoma	2	Unknown	Unknown	II	IV	Y	Y	Y	21.4	NA	Alive	NA	NA	N	N	N	N	Yes	Yes	No	No	Yes	No	No	No	N	NA		
+P-0006687-T01-IM5	P-0006687	54	White	N	N	N	N	Adenocarcinoma	2	Stable	N	IV	IV	Y	Y	Y	0	NA	Alive	NA	NA	N	N	Y	N	No	No	No	No	No	No	No	No	N	NA		
+P-0006693-T01-IM5	P-0006693	35	White	N	N	N	N	Adenocarcinoma	2	Stable	N	IV	IV	Y	Y	Y	0	NA	Alive	NA	NA	N	N	Y	N	No	No	No	No	No	No	No	No	N	NA		
+P-0006701-T01-IM5	P-0006701	55	White	N	N	N	N	Adenocarcinoma	2	Stable	N	III	IV	Y	Y	Y	17.06666667	NA	Alive	NA	NA	Y	Y	N	N	Yes	Yes	No	No	No	No	No	No	N	NA		
+P-0006704-T01-IM5	P-0006704	44	Black	N	N	N	N	Adenocarcinoma	2	Stable	N	III	IV	Y	Y	Y	12.96666667	NA	Alive	NA	NA	N	N	Y	N	Yes	Yes	No	No	No	No	No	No	N	NA		
+P-0006706-T01-IM5	P-0006706	47	White	N	N	N	N	Adenocarcinoma	2	Unknown	Unknown	III	IV	Y	Y	Y	17.73333333	NA	Alive	NA	NA	N	N	Y	N	Yes	Yes	No	No	No	No	No	No	N	NA		
+P-0006707-T01-IM5	P-0006707	54	White	N	N	N	N	Adenocarcinoma	2	Unknown	Unknown	IV	IV	Y	N	NA	0	NA	Alive	NA	NA	N	N	NA	NA	No	No	No	No	No	No	No	No	N	NA		
+P-0006708-T01-IM5	P-0006708	31	White	N	N	N	N	Adenocarcinoma	2	Unknown	Unknown	IV	IV	Y	Y	Y	0	NA	Alive	NA	NA	Y	N	NA	NA	Yes	Yes	Yes	No	Yes	Yes	No	No	Y	15-069		
+P-0006711-T01-IM5	P-0006711	66	White	N	N	N	N	Adenocarcinoma	2	Unknown	Unknown	IV	IV	Y	Y	Y	0	NA	Alive	NA	NA	Y	N	N	N	Yes	Yes	No	No	No	No	No	No	N	NA		
+P-0006715-T01-IM5	P-0006715	42	White	N	N	N	N	Adenocarcinoma	2	MSS	No	IV	IV	Y	N	NA	0	NA	Alive	NA	NA	N	N	NA	NA	Yes	Yes	Yes	No	No	Yes	No	No	Y	14-121		
+P-0006717-T01-IM5	P-0006717	64	White	N	N	N	N	Adenocarcinoma	2	MSS	No	IV	IV	Y	Y	Y	0	NA	Alive	NA	NA	Y	N	Y	N	Yes	Yes	No	No	No	No	No	No	N	NA		
+P-0006721-T01-IM5	P-0006721	46	White	N	N	N	N	Adenocarcinoma	2	MSS	No	III	IV	Y	N	NA	16.76666667	NA	Alive	NA	NA	Y	Y	Y	N	Yes	Yes	Yes	No	Yes	No	No	No	N	NA		
+P-0006726-T01-IM5	P-0006726	48	Unknown	N	N	N	N	Adenocarcinoma	2	MSS	No	IV	IV	Y	Y	N	0	NA	Alive	NA	NA	Y	N	N	N	Yes	Yes	No	No	No	No	No	No	N	NA		
+P-0006729-T01-IM5	P-0006729	53	White	N	N	N	N	Adenocarcinoma	2	MSS	No	IV	IV	Y	Y	N	0	NA	Alive	NA	NA	Y	N	NA	NA	Yes	Yes	No	No	Yes	No	No	No	N	NA		
+P-0006730-T01-IM5	P-0006730	56	White	N	N	N	N	Adenocarcinoma	3	Unknown	Unknown	IV	IV	Y	N	N	0	NA	Alive	NA	NA	N	N	NA	NA	No	No	No	No	No	No	No	No	N	NA		
+P-0006735-T01-IM5	P-0006735	69	White	N	N	N	N	Adenocarcinoma	3	MSS	No	II	IV	Y	Y	Y	12.63333333	NA	Alive	NA	NA	N	N	Y	N	Yes	Yes	Yes	Yes	No	Yes	No	No	N	NA		
+P-0006737-T01-IM5	P-0006737	39	White	N	N	N	N	Adenocarcinoma	2	MSS	No	IV	IV	Y	Y	Y	0	NA	Alive	NA	NA	Y	N	NA	NA	Yes	Yes	Yes	No	No	Yes	No	Yes	N	NA		
+P-0006740-T01-IM5	P-0006740	65	White	N	N	N	N	Adenocarcinoma	2	MSS	No	IV	IV	Y	Y	Y	0	NA	Alive	NA	NA	N	N	NA	N	Yes	Yes	Yes	No	No	No	No	No	N	NA		
+P-0006743-T01-IM5	P-0006743	31	Black	N	N	N	N	Adenocarcinoma	2	Unknown	Unknown	IV	IV	Y	Y	N	0	NA	Alive	NA	NA	Y	N	NA	N	Yes	Yes	Yes	No	Yes	Yes	No	No	N	NA		
+P-0006744-T01-IM5	P-0006744	50	White	N	N	N	N	Adenocarcinoma	2	MSS	No	III	IV	Y	Y	Y	26.46666667	NA	Alive	NA	NA	N	N	Y	N	Yes	Yes	Yes	No	Yes	No	No	No	N	NA		
+P-0006750-T01-IM5	P-0006750	49	Unknown	N	N	N	N	Adenocarcinoma	2	MSS	Unknown	IV	IV	Y	N	N	0	1	Alive	NA	Time to Recurrence (months): Time to recurrence after complere resection of mets (months)	N	N	NA	N	Yes	Yes	Yes	Yes	No	No	No	No	N	NA		
+P-0006753-T01-IM5	P-0006753	64	Unknown	N	N	Y	N	Adenocarcinoma	3	MSI	Unknown	IV	IV	Y	N	Y	0	2.166666667	Alive	NA	Time to Recurrence (months): Time to recurrence after complere resection of mets (months)	Y	N	N	N	Yes	Yes	No	No	No	No	No	No	N	NA		
+P-0006758-T01-IM5	P-0006758	47	White	N	N	N	N	Adenocarcinoma	2	MSS	No	IV	IV	Y	N	N	0	NA	Alive	NA	NA	Y	N	N	N	Yes	Yes	No	No	No	No	No	No	N	NA		
+P-0006759-T01-IM5	P-0006759	51	White	N	N	N	N	Adenocarcinoma	2	Unknown	Unknown	IV	IV	Y	Y	Y	0	NA	Alive	NA	NA	N	N	Y	N	Yes	Yes	Yes	Yes	No	Yes	No	No	N	NA		
+P-0006761-T01-IM5	P-0006761	46	White	N	N	N	N	Adenocarcinoma	2	MSS	No	IV	IV	Y	Y	Y	0	NA	Alive	NA	NA	Y	N	Y	N	Yes	Yes	Yes	No	No	Yes	No	No	N	NA		
+P-0006763-T01-IM5	P-0006763	57	White	N	N	N	N	Adenocarcinoma	2	Unknown	Unknown	IV	IV	Y	Y	Y	0	NA	Alive	NA	NA	N	N	Y	N	Yes	No	Yes	No	No	No	No	No	N	NA		
+P-0006764-T01-IM5	P-0006764	57	White	N	N	N	N	Adenocarcinoma	2	Unknown	Unknown	IV	IV	N	Y	Y	0	NA	Alive	NA	NA	Y	N	Y	N	Yes	Yes	Yes	No	Yes	No	No	No	N	NA		
+P-0006766-T01-IM5	P-0006766	46	White	N	N	N	N	Adenocarcinoma	2	Unknown	Unknown	III	IV	Y	N	NA	18.66666667	NA	Alive	NA	NA	N	N	Y	N	No	No	No	No	No	No	No	No	N	NA		
+P-0006770-T01-IM5	P-0006770	45	Asian	N	N	N	N	Adenocarcinoma	3	Unknown	Unknown	IV	IV	Y	N	NA	0	NA	Alive	NA	NA	N	N	NA	N	No	No	No	No	No	No	No	No	N	NA		
+P-0006778-T01-IM5	P-0006778	68	White	N	N	N	N	Adenocarcinoma	2	Stable	Unknown	IV	IV	Y	Y	Y	0	NA	Alive	NA	NA	N	N	N	N	No	No	No	No	No	No	No	No	N	NA		
+P-0006794-T01-IM5	P-0006794	63	White	N	N	N	N	Adenocarcinoma	2	Unknown	Unknown	IV	IV	Y	Y	Y	0	NA	Alive	NA	NA	N	N	NA	N	Yes	Yes	Yes	No	No	Yes	No	No	N	NA		
+P-0006813-T01-IM5	P-0006813	58	Unknown	N	N	N	N	Adenocarcinoma	2	Stable	No	IV	IV	Y	N	NA	0	NA	Alive	NA	NA	N	N	NA	N	No	No	No	No	No	No	No	No	N	NA		
+P-0006816-T01-IM5	P-0006816	54	White	N	N	N	N	Adenocarcinoma	2	Unknown	Unknown	II	IV	Y	Y	Y	6.966666667	NA	Alive	NA	NA	N	N	Y	N	Yes	Yes	No	No	No	No	No	No	N	NA		
+P-0006819-T01-IM5	P-0006819	59	White	N	N	N	N	Adenocarcinoma	2	Unknown	Unknown	II	IV	Y	Y	Y	17.33333333	NA	Alive	NA	NA	N	N	N	N	Yes	Yes	No	No	No	Yes	No	No	N	NA		
+P-0006821-T01-IM5	P-0006821	69	White	N	N	N	N	Adenocarcinoma	2	Unknown	Unknown	IV	IV	Y	Y	Y	0	NA	Alive	NA	NA	N	N	Y	N	Yes	Yes	No	No	No	No	No	No	N	NA		
+P-0006822-T01-IM5	P-0006822	46	White	N	N	N	N	Adenocarcinoma	3	Unknown	Unknown	IV	IV	Y	Y	N	0	NA	Alive	NA	NA	N	N	NA	N	Yes	Yes	Yes	Yes	Yes	Yes	No	No	N	NA		
+P-0006825-T01-IM5	P-0006825	79	White	N	N	N	N	Adenocarcinoma	2	Stable	No	III	IV	Y	N	NA	25.8	NA	Alive	NA	NA	N	N	Y	N	Yes	No	No	No	No	No	No	No	N	NA		
+P-0006835-T01-IM5	P-0006835	29	White	N	N	N	N	Adenocarcinoma	2	Inconclusive	Unknown	IV	IV	Y	Y	N	0	NA	Alive	NA	NA	Y	N	NA	N	Yes	Yes	Yes	Yes	Yes	Yes	No	No	N	NA		
+P-0006853-T01-IM5	P-0006853	62	White	N	N	N	N	Adenocarcinoma	2	Stable	No	IV	IV	Y	Y	N	0	NA	Alive	NA	NA	N	N	NA	N	No	No	No	No	No	No	No	No	N	NA		
+P-0006861-T01-IM5	P-0006861	83	White	N	N	Y	N	Adenocarcinoma	2	Unknown	Unknown	IV	IV	Y	Y	Y	0	NA	Alive	NA	NA	N	N	N	N	No	No	No	No	No	No	No	No	N	NA		
